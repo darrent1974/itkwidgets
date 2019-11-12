@@ -1,6 +1,6 @@
 colorcet
 ipydatawidgets>=3.2.0
-ipywidgets>=7.4.0
+ipywidgets>=7.5.0
 ipympl
 matplotlib
 numpy
